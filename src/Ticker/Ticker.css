@@ -1,0 +1,14 @@
+.ticker {
+    max-width: 150px;
+    max-height: 100px;
+    width: 150px;
+    height: 100px;
+    margin: 10px;
+    background-color: #eee;
+    border: 1px solid #ddd;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
